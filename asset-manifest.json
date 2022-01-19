@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b53346fd.css",
+    "main.js": "/static/js/main.905c46e3.js",
+    "static/js/787.47d3a9a9.chunk.js": "/static/js/787.47d3a9a9.chunk.js",
+    "static/media/apy-logo-dark.png": "/static/media/apy-logo-dark.dc0c07ff7e6521072188.png",
+    "index.html": "/index.html",
+    "main.b53346fd.css.map": "/static/css/main.b53346fd.css.map",
+    "main.905c46e3.js.map": "/static/js/main.905c46e3.js.map",
+    "787.47d3a9a9.chunk.js.map": "/static/js/787.47d3a9a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53346fd.css",
+    "static/js/main.905c46e3.js"
+  ]
+}
